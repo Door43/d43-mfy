@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfy:home|Door43 (mfy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfy|d43-mfy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfy/archive/master.zip|d43-mfy.zip]]
+
+**Recent Changes**
+{{changes>ns = mfy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfy|Ethnologue data]]
+
